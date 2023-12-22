@@ -1,0 +1,5 @@
+{
+    "require": {
+        "phpexiftool/phpexiftool": "0.4.1"
+    }
+}
